@@ -1,2 +1,2 @@
 # Redes-Neuronales-Artificiales
-Proyectos con implementación del modelo de redes MLP
+Ejercicios sobre implementación de Perceptrón Multicapa
